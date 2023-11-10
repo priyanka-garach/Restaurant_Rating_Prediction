@@ -1,0 +1,133 @@
+2021-10-01 22:41:11,711 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:41:11,711 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:41:11,711 - INFO - preprocess_data - Error on Preprocessing data 'DataGetter' object has no attribute 'load_data'
+2021-10-01 22:42:06,380 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:42:06,380 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:42:06,538 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-01 22:42:06,538 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-01 22:42:06,545 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-01 22:42:06,545 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-01 22:42:06,547 - INFO - preprocess_data - Error on Preprocessing data Error occured while dropping columns from data "['url' 'phone' 'reviews_list' 'name' 'address'] not found in axis"
+2021-10-01 22:43:16,535 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:43:16,535 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:43:16,686 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-01 22:43:16,686 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-01 22:43:16,693 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-01 22:43:16,693 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-01 22:43:16,703 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-01 22:43:16,703 - INFO - preprocess_data - Dropping null values... Started
+2021-10-01 22:43:16,738 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-01 22:43:16,738 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-01 22:43:16,782 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-01 22:43:16,782 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-01 22:43:16,797 - INFO - preprocess_data - Error on Preprocessing data 'Preprocessor' object has no attribute 'save_json'
+2021-10-01 22:45:14,326 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:45:14,326 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:45:14,478 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-01 22:45:14,478 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-01 22:45:14,485 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-01 22:45:14,485 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-01 22:45:14,494 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-01 22:45:14,495 - INFO - preprocess_data - Dropping null values... Started
+2021-10-01 22:45:14,529 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-01 22:45:14,529 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-01 22:45:14,573 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-01 22:45:14,573 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-01 22:45:14,588 - INFO - preprocess_data - Error on Preprocessing data Error occured while saving dictionary as json file [Errno 2] No such file or directory: './online_order/.json'
+2021-10-01 22:46:52,934 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:46:52,935 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:46:53,096 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-01 22:46:53,096 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-01 22:46:53,104 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-01 22:46:53,104 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-01 22:46:53,114 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-01 22:46:53,114 - INFO - preprocess_data - Dropping null values... Started
+2021-10-01 22:46:53,150 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-01 22:46:53,150 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-01 22:46:53,197 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-01 22:46:53,197 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-01 22:46:53,213 - INFO - preprocess_data - Error on Preprocessing data Error occured while saving dictionary as json file [Errno 2] No such file or directory: './online_order/online_order.json'
+2021-10-01 22:47:46,526 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:47:46,526 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:47:46,675 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-01 22:47:46,675 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-01 22:47:46,681 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-01 22:47:46,681 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-01 22:47:46,691 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-01 22:47:46,691 - INFO - preprocess_data - Dropping null values... Started
+2021-10-01 22:47:46,726 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-01 22:47:46,726 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-01 22:47:46,770 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-01 22:47:46,770 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-01 22:47:46,849 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-10-01 22:47:46,849 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-10-01 22:47:46,884 - INFO - preprocess_data - Error on Preprocessing data [Errno 2] No such file or directory: './data/preprocessed_data.csv'
+2021-10-01 22:48:23,051 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:48:23,051 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:48:23,204 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-01 22:48:23,204 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-01 22:48:23,211 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-01 22:48:23,211 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-01 22:48:23,221 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-01 22:48:23,221 - INFO - preprocess_data - Dropping null values... Started
+2021-10-01 22:48:23,257 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-01 22:48:23,257 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-01 22:48:23,304 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-01 22:48:23,304 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-01 22:48:23,380 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-10-01 22:48:23,380 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-10-01 22:48:25,426 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-10-01 22:58:33,289 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:58:33,289 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:58:33,453 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-01 22:58:33,453 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-01 22:58:33,460 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-01 22:58:33,460 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-01 22:58:33,469 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-01 22:58:33,469 - INFO - preprocess_data - Dropping null values... Started
+2021-10-01 22:58:33,503 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-01 22:58:33,503 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-01 22:58:33,548 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-01 22:58:33,548 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-10-01 22:58:33,585 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-10-01 22:58:33,670 - INFO - preprocess_data - Target column created... Completed
+2021-10-01 22:58:33,671 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-01 22:58:33,744 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-10-01 22:58:33,744 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-10-01 22:58:33,937 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-10-01 22:58:58,758 - INFO - preprocess_data - Start preprocessing data
+2021-10-01 22:58:58,759 - INFO - preprocess_data - Loading data... Started
+2021-10-01 22:58:58,873 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-01 22:58:58,873 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-01 22:58:58,878 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-01 22:58:58,878 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-01 22:58:58,884 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-01 22:58:58,884 - INFO - preprocess_data - Dropping null values... Started
+2021-10-01 22:58:58,907 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-01 22:58:58,907 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-01 22:58:58,938 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-01 22:58:58,938 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-10-01 22:58:58,967 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-10-01 22:58:59,026 - INFO - preprocess_data - Target column created... Completed
+2021-10-01 22:58:59,026 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-01 22:58:59,079 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-10-01 22:58:59,079 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-10-01 22:58:59,204 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-10-07 22:25:11,580 - INFO - preprocess_data - Start preprocessing data
+2021-10-07 22:25:11,583 - INFO - preprocess_data - Loading data... Started
+2021-10-07 22:25:12,090 - INFO - preprocess_data - Data loaded... Compleated
+2021-10-07 22:25:12,090 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-07 22:25:12,097 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-07 22:25:12,097 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-07 22:25:12,109 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-07 22:25:12,109 - INFO - preprocess_data - Dropping null values... Started
+2021-10-07 22:25:12,135 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-07 22:25:12,135 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-07 22:25:12,165 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-07 22:25:12,165 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-10-07 22:25:12,182 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-10-07 22:25:12,218 - INFO - preprocess_data - Target column created... Completed
+2021-10-07 22:25:12,218 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-07 22:25:12,254 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-10-07 22:25:12,254 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-10-07 22:25:12,333 - INFO - preprocess_data - Saving dataframe as csv file... Completed

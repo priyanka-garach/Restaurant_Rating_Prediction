@@ -1,0 +1,59 @@
+For reference:
+Storesales Project: https://github.com/shivanshjayara/BigMart_Sales_Prediction
+
+
+1) Logging:
+
+2) Data loader:
+    load the data from folder - storing from database.
+
+3) Data Transformation:
+    rename column name (If required)
+    rate column
+    cost column
+    
+4) Database operation:
+    Create
+    Insert
+    Export to csv in local in separate folder
+    
+5) Preprocessing:
+     Loading data from DB
+     Drop unecessary columns
+     Chceking VIF value (Columns having more than threshold > 10, Drop them)
+     Drop null values
+     Drop dulicate value
+     
+6) Encoding:
+    Label encoding
+ 
+ 
+ 
+ Final DataFrame - df
+ 
+ 
+ 
+7) Data separation:
+    X=Independent variables
+    Y=Dependent variable
+
+8) Data Scaling:
+    Standard scaler
+    Saving into pickle
+    Std_data into dataframe
+
+9) Data splitting:
+    Train_test_split - (Return type tuple-4 items)
+
+10) Evaluation metrics: (This is connected to next module for evaluation and scoring purpose)
+    Score
+    Y_predicted
+    MAE
+    RMSE
+    
+11) Model tuner with model training:
+    Parameters tunning
+    Model train- (Extra tree)
+    
+12) Model Saving:
+    Saving into pickle

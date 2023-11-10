@@ -1,0 +1,228 @@
+2021-10-01 21:46:06,401 - INFO - rename_columns - Renaming columns Started
+2021-10-01 21:46:06,404 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 21:49:29,190 - INFO - rename_columns - Renaming columns Started
+2021-10-01 21:49:29,190 - INFO - rename_columns - Renaming columns Started
+2021-10-01 21:49:29,195 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 21:49:29,195 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 21:53:19,876 - INFO - rename_columns - Renaming columns Started
+2021-10-01 21:53:19,876 - INFO - rename_columns - Renaming columns Started
+2021-10-01 21:53:19,881 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 21:53:19,881 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 21:55:27,898 - INFO - rename_columns - Renaming columns Started
+2021-10-01 21:55:27,898 - INFO - rename_columns - Renaming columns Started
+2021-10-01 21:55:27,903 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 21:55:27,903 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:00:48,981 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:00:48,981 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:00:48,985 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:00:48,985 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:07:26,031 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:07:26,031 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:07:26,034 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:07:26,034 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:07:40,073 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:07:40,073 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:07:40,077 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:07:40,077 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:07:53,539 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:07:53,539 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:07:53,542 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:07:53,542 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:07:53,600 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:07:53,600 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:09:18,929 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:09:18,929 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:09:18,933 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:09:18,933 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:10:23,218 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:10:23,218 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:10:23,222 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:10:23,222 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:10:23,314 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:10:23,314 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:10:23,377 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:10:23,377 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:14:13,229 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:14:13,229 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:14:13,234 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:14:13,234 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:14:13,325 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:14:13,325 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:14:13,361 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:14:13,361 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:14:13,362 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:14:13,362 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:14:13,467 - INFO - remove_slash - Removing slash from values Started
+2021-10-01 22:14:13,467 - INFO - remove_slash - Removing slash from values Started
+2021-10-01 22:14:13,524 - ERROR - remove_slash - Error While removing slash from columns could not convert string to float: ''
+2021-10-01 22:14:13,524 - ERROR - remove_slash - Error While removing slash from columns could not convert string to float: ''
+2021-10-01 22:14:13,524 - ERROR - make_target - Error While making target could not convert string to float: ''
+2021-10-01 22:14:13,524 - ERROR - make_target - Error While making target could not convert string to float: ''
+2021-10-01 22:18:36,308 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:18:36,308 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:18:36,311 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:18:36,311 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:18:36,371 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:18:36,371 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:18:36,393 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:18:36,393 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:18:36,393 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:18:36,393 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:18:36,444 - INFO - remove_slash - Removing slash from values Started
+2021-10-01 22:18:36,444 - INFO - remove_slash - Removing slash from values Started
+2021-10-01 22:18:36,493 - INFO - remove_slash - Removing slash from values Completed
+2021-10-01 22:18:36,493 - INFO - remove_slash - Removing slash from values Completed
+2021-10-01 22:18:36,493 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:18:36,493 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:18:36,494 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:18:36,494 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:20:49,234 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:20:49,234 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:20:49,238 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:20:49,238 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:20:49,332 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:20:49,332 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:20:49,368 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:20:49,368 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:20:49,369 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:20:49,369 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:20:49,441 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:20:49,441 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:20:49,454 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:20:49,454 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:24:29,533 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:24:29,533 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:24:29,536 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:24:29,536 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:24:29,597 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:24:29,597 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:24:29,619 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:24:29,619 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:24:29,620 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:24:29,620 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:24:29,665 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:24:29,665 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:24:29,673 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:24:29,673 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:28:33,210 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:28:33,210 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:28:33,215 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:28:33,215 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:28:33,312 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:28:33,312 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:28:33,351 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:28:33,351 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:28:33,351 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:28:33,351 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:28:33,428 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:28:33,428 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:28:33,440 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:28:33,440 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:28:36,477 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:28:36,477 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:28:36,481 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:28:36,481 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:28:36,572 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:28:36,572 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:28:36,610 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:28:36,610 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:28:36,610 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:28:36,610 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:28:36,684 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:28:36,684 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:28:36,697 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:28:36,697 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:29:51,349 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:29:51,349 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:29:51,353 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:29:51,353 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:29:51,409 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:29:51,409 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:29:51,431 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:29:51,431 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:29:51,431 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:29:51,431 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:29:51,475 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:29:51,475 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:29:51,483 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:29:51,483 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:31:42,148 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:31:42,148 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:31:42,151 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:31:42,151 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:31:42,207 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:31:42,207 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:31:42,229 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:31:42,229 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:31:42,229 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:31:42,229 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:31:42,274 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:31:42,274 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:31:42,281 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:31:42,281 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:42:06,538 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:42:06,538 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:42:06,542 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:42:06,542 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:43:16,687 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:43:16,687 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:43:16,691 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:43:16,691 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:45:14,479 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:45:14,479 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:45:14,483 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:45:14,483 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:46:53,096 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:46:53,096 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:46:53,102 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:46:53,102 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:47:46,675 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:47:46,675 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:47:46,679 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:47:46,679 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:48:23,204 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:48:23,204 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:48:23,208 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:48:23,208 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:58:33,453 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:58:33,453 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:58:33,457 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:58:33,457 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:58:33,548 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:58:33,548 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:58:33,584 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:58:33,584 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:58:33,585 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:58:33,585 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:58:33,657 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:58:33,657 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:58:33,669 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:58:33,669 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:58:58,873 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:58:58,873 - INFO - rename_columns - Renaming columns Started
+2021-10-01 22:58:58,876 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:58:58,876 - INFO - rename_columns - Renaming columns Completed
+2021-10-01 22:58:58,938 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:58:58,938 - INFO - remove_comma - Removing comma from values Started
+2021-10-01 22:58:58,967 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:58:58,967 - INFO - remove_comma - Removing comma from values Completed
+2021-10-01 22:58:58,967 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:58:58,967 - INFO - make_target - Cleaning Target Columns
+2021-10-01 22:58:59,017 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:58:59,017 - INFO - make_target - /5 remove forom rate column
+2021-10-01 22:58:59,025 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-01 22:58:59,025 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-07 22:25:12,090 - INFO - rename_columns - Renaming columns Started
+2021-10-07 22:25:12,090 - INFO - rename_columns - Renaming columns Started
+2021-10-07 22:25:12,095 - INFO - rename_columns - Renaming columns Completed
+2021-10-07 22:25:12,095 - INFO - rename_columns - Renaming columns Completed
+2021-10-07 22:25:12,165 - INFO - remove_comma - Removing comma from values Started
+2021-10-07 22:25:12,165 - INFO - remove_comma - Removing comma from values Started
+2021-10-07 22:25:12,182 - INFO - remove_comma - Removing comma from values Completed
+2021-10-07 22:25:12,182 - INFO - remove_comma - Removing comma from values Completed
+2021-10-07 22:25:12,182 - INFO - make_target - Cleaning Target Columns
+2021-10-07 22:25:12,182 - INFO - make_target - Cleaning Target Columns
+2021-10-07 22:25:12,212 - INFO - make_target - /5 remove forom rate column
+2021-10-07 22:25:12,212 - INFO - make_target - /5 remove forom rate column
+2021-10-07 22:25:12,217 - INFO - make_target - Cleaning Target Columns Completed
+2021-10-07 22:25:12,217 - INFO - make_target - Cleaning Target Columns Completed
